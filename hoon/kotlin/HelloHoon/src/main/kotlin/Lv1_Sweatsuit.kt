@@ -42,7 +42,7 @@ fun main() {
     solution(2, intArrayOf(1), intArrayOf(1)) //
     solution(20, intArrayOf(17, 16, 13, 2, 4, 6, 7, ), intArrayOf(15, 16, 1, 2, 3, 4, 5, 6, 7, 8)) //
 }
-fun solution(n: Int, lost: IntArray, reserve: IntArray): Int {
+private fun solution(n: Int, lost: IntArray, reserve: IntArray): Int {
     println(" * * * * * * * * run solution * * * * * * * * ")
     var answer = 0
 

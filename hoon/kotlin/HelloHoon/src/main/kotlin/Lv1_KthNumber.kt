@@ -43,7 +43,7 @@ fun main (){
     println("* * * * * * * * * *  = ${Arrays.toString(solution(intArray, commands))}");
 }
 
-fun solution(array: IntArray, commands: Array<IntArray>): IntArray {
+private fun solution(array: IntArray, commands: Array<IntArray>): IntArray {
     var answer = intArrayOf()
     commands.forEach {
         println("loop ~ ${Arrays.toString(it)}")
