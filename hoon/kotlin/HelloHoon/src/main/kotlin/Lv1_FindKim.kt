@@ -23,6 +23,6 @@ fun main(args: Array<String>) {
     println("${solution(stringArray)}")
 }
 
-fun solution(seoul: Array<String>): String {
+private fun solution(seoul: Array<String>): String {
     return "김서방은 ${seoul.indexOf("kim")}에 있다"
 }

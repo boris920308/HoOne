@@ -33,7 +33,7 @@ fun main() {
     println("실행결과 = ${solution("foobar").toList()}")
 }
 
-fun solution(s: String): IntArray {
+private fun solution(s: String): IntArray {
     var answer: IntArray = intArrayOf()
     var sArray = s.toCharArray()
     var savedChar = charArrayOf()
