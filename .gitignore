@@ -1,6 +1,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/androidstudio,kotlin,java,swift,xcode,objective-c,intellij
 # Edit at https://www.toptal.com/developers/gitignore?templates=androidstudio,kotlin,java,swift,xcode,objective-c,intellij
 
+### 개인 ###
+**/CodingTest/
+
 ### Mac ###
 .DS_Store
 
