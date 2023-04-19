@@ -6,8 +6,8 @@ import java.util.*
 
 /**
  *
- * no.8393
- * https://www.acmicpc.net/problem/8393
+ * no.10828
+ * https://www.acmicpc.net/problem/10828
  *
  * 시간 제한	메모리 제한	제출	정답	맞힌 사람	정답 비율
  * 0.5 초 (추가 시간 없음)	256 MB	207899	73475	53572	37.301%
