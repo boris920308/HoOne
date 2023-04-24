@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3307405229F6AE6800823DC2 /* StarPrinter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3307405129F6AE6800823DC2 /* StarPrinter.swift */; };
 		33F651D629EBF41A00337346 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33F651D529EBF41A00337346 /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -23,16 +24,20 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		3371551629ECEB16004BE3D4 /* FindingPrimeNumber2_Refactor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindingPrimeNumber2_Refactor.swift; sourceTree = "<group>"; };
-		3371551829ED159D004BE3D4 /* MaxArea_withSocar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxArea_withSocar.swift; sourceTree = "<group>"; };
-		3371551A29ED6092004BE3D4 /* RectangleOnCoordinatePlane_withSocar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RectangleOnCoordinatePlane_withSocar.swift; sourceTree = "<group>"; };
-		3371551D29ED6691004BE3D4 /* Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sum.swift; sourceTree = "<group>"; };
+		3307404D29F69DB300823DC2 /* FibonacciNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FibonacciNumber.swift; sourceTree = "<group>"; };
+		3307405129F6AE6800823DC2 /* StarPrinter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarPrinter.swift; sourceTree = "<group>"; };
+		3371551829ED159D004BE3D4 /* MaxArea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxArea.swift; sourceTree = "<group>"; };
+		3371551A29ED6092004BE3D4 /* RectangleOnCoordinatePlane.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RectangleOnCoordinatePlane.swift; sourceTree = "<group>"; };
+		3371552129ED862E004BE3D4 /* FindingPrimeNumber.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FindingPrimeNumber.swift; sourceTree = "<group>"; };
+		3371552229ED862E004BE3D4 /* FindingPrimeNumber2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FindingPrimeNumber2.swift; sourceTree = "<group>"; };
+		3371552329ED862E004BE3D4 /* Sum.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Sum.swift; sourceTree = "<group>"; };
+		3371552429ED862E004BE3D4 /* FindingPrimeNumber2_Refactor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FindingPrimeNumber2_Refactor.swift; sourceTree = "<group>"; };
+		3371552529ED862E004BE3D4 /* IntegerFactorization_Refactor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IntegerFactorization_Refactor.swift; sourceTree = "<group>"; };
+		3371552629ED862E004BE3D4 /* IntegerFactorization.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IntegerFactorization.swift; sourceTree = "<group>"; };
+		33F00CCF29F002C8002132B4 /* Stack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stack.swift; sourceTree = "<group>"; };
+		33F00CD229F00C4A002132B4 /* MinimumHeap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumHeap.swift; sourceTree = "<group>"; };
 		33F651C829EBF0DA00337346 /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
-		33F651D329EBF18C00337346 /* IntegerFactorization.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntegerFactorization.swift; sourceTree = "<group>"; };
 		33F651D529EBF41A00337346 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
-		33F651D729EC0EEE00337346 /* IntegerFactorization_Refactor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntegerFactorization_Refactor.swift; sourceTree = "<group>"; };
-		33F651D929EC121C00337346 /* FindingPrimeNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindingPrimeNumber.swift; sourceTree = "<group>"; };
-		33F651DB29EC16E800337346 /* FindingPrimeNumber2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindingPrimeNumber2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -46,18 +51,64 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		3371551C29ED6676004BE3D4 /* 수학 */ = {
+		3307404F29F69DBA00823DC2 /* week02 */ = {
 			isa = PBXGroup;
 			children = (
-				33F651D929EC121C00337346 /* FindingPrimeNumber.swift */,
-				33F651DB29EC16E800337346 /* FindingPrimeNumber2.swift */,
-				3371551D29ED6691004BE3D4 /* Sum.swift */,
-				3371551629ECEB16004BE3D4 /* FindingPrimeNumber2_Refactor.swift */,
-				33F651D329EBF18C00337346 /* IntegerFactorization.swift */,
-				33F651D729EC0EEE00337346 /* IntegerFactorization_Refactor.swift */,
+				3307405029F69DD200823DC2 /* 정렬_재귀 */,
+			);
+			path = week02;
+			sourceTree = "<group>";
+		};
+		3307405029F69DD200823DC2 /* 정렬_재귀 */ = {
+			isa = PBXGroup;
+			children = (
+				3307404D29F69DB300823DC2 /* FibonacciNumber.swift */,
+				3307405129F6AE6800823DC2 /* StarPrinter.swift */,
+			);
+			name = "정렬_재귀";
+			path = "정렬_재귀";
+			sourceTree = "<group>";
+		};
+		3371551F29ED85A6004BE3D4 /* CodingTest */ = {
+			isa = PBXGroup;
+			children = (
+				3371551A29ED6092004BE3D4 /* RectangleOnCoordinatePlane.swift */,
+				3371551829ED159D004BE3D4 /* MaxArea.swift */,
+			);
+			path = CodingTest;
+			sourceTree = "<group>";
+		};
+		3371552029ED862E004BE3D4 /* week01 */ = {
+			isa = PBXGroup;
+			children = (
+				33F00CD129F002E6002132B4 /* 자료구조 */,
+				33F00CD029F002D9002132B4 /* 수학 */,
+			);
+			path = week01;
+			sourceTree = "<group>";
+		};
+		33F00CD029F002D9002132B4 /* 수학 */ = {
+			isa = PBXGroup;
+			children = (
+				3371552129ED862E004BE3D4 /* FindingPrimeNumber.swift */,
+				3371552229ED862E004BE3D4 /* FindingPrimeNumber2.swift */,
+				3371552329ED862E004BE3D4 /* Sum.swift */,
+				3371552429ED862E004BE3D4 /* FindingPrimeNumber2_Refactor.swift */,
+				3371552529ED862E004BE3D4 /* IntegerFactorization_Refactor.swift */,
+				3371552629ED862E004BE3D4 /* IntegerFactorization.swift */,
 			);
 			name = "수학";
 			path = "수학";
+			sourceTree = "<group>";
+		};
+		33F00CD129F002E6002132B4 /* 자료구조 */ = {
+			isa = PBXGroup;
+			children = (
+				33F00CCF29F002C8002132B4 /* Stack.swift */,
+				33F00CD229F00C4A002132B4 /* MinimumHeap.swift */,
+			);
+			name = "자료구조";
+			path = "자료구조";
 			sourceTree = "<group>";
 		};
 		33F651BF29EBF0DA00337346 = {
@@ -80,9 +131,9 @@
 			isa = PBXGroup;
 			children = (
 				33F651D529EBF41A00337346 /* main.swift */,
-				3371551A29ED6092004BE3D4 /* RectangleOnCoordinatePlane_withSocar.swift */,
-				3371551829ED159D004BE3D4 /* MaxArea_withSocar.swift */,
-				3371551C29ED6676004BE3D4 /* 수학 */,
+				3307404F29F69DBA00823DC2 /* week02 */,
+				3371552029ED862E004BE3D4 /* week01 */,
+				3371551F29ED85A6004BE3D4 /* CodingTest */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
@@ -146,6 +197,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3307405229F6AE6800823DC2 /* StarPrinter.swift in Sources */,
 				33F651D629EBF41A00337346 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
