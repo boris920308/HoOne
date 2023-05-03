@@ -24,7 +24,7 @@
 
 |Subject|Level|Week|🙆‍♀️|🙆‍♂️|
 |--|--|--|--|--|
-|Big-O|기초|1|-|-|
+|Big-O|기초|1|✔️|✔️|
 |수학|초급|1|[합](https://github.com/boris920308/HoOne/blob/main/hana/Algorithm/Algorithm/week01/%EC%88%98%ED%95%99/Sum.swift), [소인수분해](https://github.com/boris920308/HoOne/blob/main/hana/Algorithm/Algorithm/week01/%EC%88%98%ED%95%99/IntegerFactorization_Refactor.swift), [소수찾기](https://github.com/boris920308/HoOne/blob/main/hana/Algorithm/Algorithm/week01/%EC%88%98%ED%95%99/FindingPrimeNumber.swift), [소수 구하기](https://github.com/boris920308/HoOne/blob/main/hana/Algorithm/Algorithm/week01/%EC%88%98%ED%95%99/FindingPrimeNumber2_Refactor.swift)|[합](https://github.com/boris920308/HoOne/blob/main/hoon/kotlin/HelloHoon/src/main/kotlin/boj/week01/sum.kt)|
 |자료구조 (해시, 스택, 큐, 덱, 힙)|초급|2|[스택](https://github.com/boris920308/HoOne/blob/main/hana/Algorithm/Algorithm/week01/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/Stack.swift), [최소힙](https://github.com/boris920308/HoOne/blob/main/hana/Algorithm/Algorithm/week01/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/MinimumHeap.swift)|[큐](https://github.com/boris920308/HoOne/blob/main/hoon/kotlin/HelloHoon/src/main/kotlin/boj/week01/queue/Queue.kt), [최소힙](https://github.com/boris920308/HoOne/blob/main/hoon/kotlin/HelloHoon/src/main/kotlin/boj/week01/heap/MinHeap.kt)|
 |재귀/정렬|초급|2|[피보나치수](https://github.com/boris920308/HoOne/blob/main/hana/Algorithm/Algorithm/week02/%EC%A0%95%EB%A0%AC_%EC%9E%AC%EA%B7%80/FibonacciNumber.swift)|[피보나치수](https://github.com/boris920308/HoOne/blob/main/hoon/kotlin/HelloHoon/src/main/kotlin/boj/week02/recursive_function/FibonacciSequence5.kt)|
