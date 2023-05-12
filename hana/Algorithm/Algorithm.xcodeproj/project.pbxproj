@@ -24,8 +24,12 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		330578392A0BA0B300EB5BCF /* StairClimbing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StairClimbing.swift; sourceTree = "<group>"; };
+		3305783D2A0D674300EB5BCF /* SumOneTwoThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOneTwoThree.swift; sourceTree = "<group>"; };
 		3307404D29F69DB300823DC2 /* FibonacciNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FibonacciNumber.swift; sourceTree = "<group>"; };
 		3307405129F6AE6800823DC2 /* StarPrinter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarPrinter.swift; sourceTree = "<group>"; };
+		333493392A0F05F900B97506 /* IntegerTriangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntegerTriangle.swift; sourceTree = "<group>"; };
+		3334933B2A0F078E00B97506 /* BuyingCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuyingCard.swift; sourceTree = "<group>"; };
 		3371551829ED159D004BE3D4 /* MaxArea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxArea.swift; sourceTree = "<group>"; };
 		3371551A29ED6092004BE3D4 /* RectangleOnCoordinatePlane.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RectangleOnCoordinatePlane.swift; sourceTree = "<group>"; };
 		3371552129ED862E004BE3D4 /* FindingPrimeNumber.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FindingPrimeNumber.swift; sourceTree = "<group>"; };
@@ -51,6 +55,25 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3305783B2A0BA0B900EB5BCF /* DP */ = {
+			isa = PBXGroup;
+			children = (
+				3305783D2A0D674300EB5BCF /* SumOneTwoThree.swift */,
+				330578392A0BA0B300EB5BCF /* StairClimbing.swift */,
+				3334933B2A0F078E00B97506 /* BuyingCard.swift */,
+				333493392A0F05F900B97506 /* IntegerTriangle.swift */,
+			);
+			path = DP;
+			sourceTree = "<group>";
+		};
+		3305783C2A0BA0E400EB5BCF /* week03 */ = {
+			isa = PBXGroup;
+			children = (
+				3305783B2A0BA0B900EB5BCF /* DP */,
+			);
+			path = week03;
+			sourceTree = "<group>";
+		};
 		3307404F29F69DBA00823DC2 /* week02 */ = {
 			isa = PBXGroup;
 			children = (
@@ -131,6 +154,7 @@
 			isa = PBXGroup;
 			children = (
 				33F651D529EBF41A00337346 /* main.swift */,
+				3305783C2A0BA0E400EB5BCF /* week03 */,
 				3307404F29F69DBA00823DC2 /* week02 */,
 				3371552029ED862E004BE3D4 /* week01 */,
 				3371551F29ED85A6004BE3D4 /* CodingTest */,
