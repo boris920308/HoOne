@@ -36,4 +36,4 @@ private fun solution(x: Int, n: Int): LongArray {
     return answer
 }
 
-fun secondSolution(x: Int, n: Int): LongArray = LongArray(n) { i -> x.toLong() * (i+1) }
+private fun secondSolution(x: Int, n: Int): LongArray = LongArray(n) { i -> x.toLong() * (i+1) }
