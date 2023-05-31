@@ -44,6 +44,6 @@ private fun solution(numbers: IntArray): Int {
     return answer
 }
 
-fun solution_1(numbers: IntArray): Int = (0..9).filterNot(numbers::contains).sum()
+private fun solution_1(numbers: IntArray): Int = (0..9).filterNot(numbers::contains).sum()
 
-fun solution_2(numbers: IntArray): Int  = 45 - numbers.sum()
+private fun solution_2(numbers: IntArray): Int  = 45 - numbers.sum()
