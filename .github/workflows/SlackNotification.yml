@@ -6,6 +6,8 @@ name: main branche pull request
 on:
   pull_request:
     branches: [ "main" ]
+  pull_request_target:
+    branches: [ "main" ]
 
 jobs:
   build:
