@@ -26,8 +26,27 @@
 /* Begin PBXFileReference section */
 		330578392A0BA0B300EB5BCF /* StairClimbing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StairClimbing.swift; sourceTree = "<group>"; };
 		3305783D2A0D674300EB5BCF /* SumOneTwoThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOneTwoThree.swift; sourceTree = "<group>"; };
+		3305F1F82A30539900724ADB /* LV1_Overpainting.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = LV1_Overpainting.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		3307404D29F69DB300823DC2 /* FibonacciNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FibonacciNumber.swift; sourceTree = "<group>"; };
 		3307405129F6AE6800823DC2 /* StarPrinter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarPrinter.swift; sourceTree = "<group>"; };
+		330AFAC02A25AB02004C6A90 /* Lv1_FailureRate.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Lv1_FailureRate.playground; sourceTree = "<group>"; };
+		330AFAC12A25AB02004C6A90 /* Lv1_Sweatsuit.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Lv1_Sweatsuit.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		330AFAC22A25AB02004C6A90 /* Lv1_FindKim.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Lv1_FindKim.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		330AFAC32A25AB02004C6A90 /* Lv1_FindingPrime.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Lv1_FindingPrime.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		330AFAC42A25AB02004C6A90 /* Lv1_PersonalityTypeTest.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Lv1_PersonalityTypeTest.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		330AFAC52A25AB02004C6A90 /* Lv1_TruckOverBridge.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Lv1_TruckOverBridge.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		330AFAC62A25AB02004C6A90 /* Lv2_H_Index.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Lv2_H_Index.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		330AFAC72A25AB02004C6A90 /* Lv1_ReportResult.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Lv1_ReportResult.playground; sourceTree = "<group>"; };
+		330AFAC82A25AB02004C6A90 /* Lv1_NearestSameChar.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Lv1_NearestSameChar.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		330AFAC92A25AB02004C6A90 /* Lv1_PairOfNumbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Lv1_PairOfNumbers.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		330AFACA2A25AB02004C6A90 /* Lv1_KthNumber.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Lv1_KthNumber.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		330AFACB2A25AB14004C6A90 /* H4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = H4.swift; sourceTree = "<group>"; };
+		330AFACC2A25AB14004C6A90 /* H6.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = H6.swift; sourceTree = "<group>"; };
+		330AFACD2A25AB14004C6A90 /* H1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = H1.swift; sourceTree = "<group>"; };
+		330AFACE2A25AB14004C6A90 /* H2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = H2.swift; sourceTree = "<group>"; };
+		330AFACF2A25AB14004C6A90 /* H5.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = H5.swift; sourceTree = "<group>"; };
+		330AFAD02A25AB14004C6A90 /* H3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = H3.swift; sourceTree = "<group>"; };
+		330AFAD72A25AB64004C6A90 /* AreaOfOne.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AreaOfOne.swift; sourceTree = "<group>"; };
 		333493392A0F05F900B97506 /* IntegerTriangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntegerTriangle.swift; sourceTree = "<group>"; };
 		3334933B2A0F078E00B97506 /* BuyingCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuyingCard.swift; sourceTree = "<group>"; };
 		3371551829ED159D004BE3D4 /* MaxArea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxArea.swift; sourceTree = "<group>"; };
@@ -98,6 +117,25 @@
 			path = "정렬_재귀";
 			sourceTree = "<group>";
 		};
+		330AFABF2A25AB02004C6A90 /* Programmers */ = {
+			isa = PBXGroup;
+			children = (
+				330AFAC02A25AB02004C6A90 /* Lv1_FailureRate.playground */,
+				330AFAC12A25AB02004C6A90 /* Lv1_Sweatsuit.playground */,
+				330AFAC22A25AB02004C6A90 /* Lv1_FindKim.playground */,
+				330AFAC32A25AB02004C6A90 /* Lv1_FindingPrime.playground */,
+				330AFAC42A25AB02004C6A90 /* Lv1_PersonalityTypeTest.playground */,
+				330AFAC52A25AB02004C6A90 /* Lv1_TruckOverBridge.playground */,
+				330AFAC62A25AB02004C6A90 /* Lv2_H_Index.playground */,
+				330AFAC72A25AB02004C6A90 /* Lv1_ReportResult.playground */,
+				330AFAC82A25AB02004C6A90 /* Lv1_NearestSameChar.playground */,
+				330AFAC92A25AB02004C6A90 /* Lv1_PairOfNumbers.playground */,
+				330AFACA2A25AB02004C6A90 /* Lv1_KthNumber.playground */,
+				3305F1F82A30539900724ADB /* LV1_Overpainting.playground */,
+			);
+			path = Programmers;
+			sourceTree = "<group>";
+		};
 		3371551F29ED85A6004BE3D4 /* CodingTest */ = {
 			isa = PBXGroup;
 			children = (
@@ -107,6 +145,13 @@
 				338D6DFE2A10AB0300FCD725 /* Tournament.swift */,
 				338D6E002A10AEE500FCD725 /* Directory.swift */,
 				338D6E012A10DD4900FCD725 /* Triangle.swift */,
+				330AFAD72A25AB64004C6A90 /* AreaOfOne.swift */,
+				330AFACD2A25AB14004C6A90 /* H1.swift */,
+				330AFACE2A25AB14004C6A90 /* H2.swift */,
+				330AFAD02A25AB14004C6A90 /* H3.swift */,
+				330AFACB2A25AB14004C6A90 /* H4.swift */,
+				330AFACF2A25AB14004C6A90 /* H5.swift */,
+				330AFACC2A25AB14004C6A90 /* H6.swift */,
 			);
 			path = CodingTest;
 			sourceTree = "<group>";
@@ -180,6 +225,7 @@
 		33F651CA29EBF0DA00337346 /* Algorithm */ = {
 			isa = PBXGroup;
 			children = (
+				330AFABF2A25AB02004C6A90 /* Programmers */,
 				33F651D529EBF41A00337346 /* main.swift */,
 				338D6E072A15199600FCD725 /* week04 */,
 				3305783C2A0BA0E400EB5BCF /* week03 */,
