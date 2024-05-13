@@ -28,7 +28,7 @@ fun main() {
 //    solution(intArrayOf(0, 0, 0, 0, 0))
 }
 
-fun solution(citations: IntArray): Int {
+private fun solution(citations: IntArray): Int {
     println(" * * * * * * * * * * solution * * * * * * * * * * ")
     println(" citations = ${citations.toList()}")
     var answer = 0
